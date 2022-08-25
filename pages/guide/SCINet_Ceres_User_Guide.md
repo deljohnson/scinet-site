@@ -56,6 +56,7 @@ The video includes:
 - accessing Ceres software modules
 - computing in batch mode with a batch script
 
+For a more indepth look at changing your password, the video [here](https://www.youtube.com/watch?v=Amhw2k5mftI) offers a demonstration. 
 
 # Technical Overview
 
